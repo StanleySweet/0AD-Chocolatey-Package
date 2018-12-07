@@ -1,9 +1,11 @@
 $packageName = '0ad'
 $installerType = 'exe'
 $silentArgs = '/S'
-$url = 'http://releases.wildfiregames.com/0ad-0.0.23-alpha-win32.exe'
-$checksum = '269a121dadbf61331dde22b1ab755bbc721fdf283b81a1da450cfe34c0053ebd'
-$checksumType = 'sha256'
+$fileName = '0ad-0.0.23-alpha-win32.exe'
+$url = "http://releases.wildfiregames.com/$fileName"
+$webClient = New-Object Net.WebClient
+$checksum = $webClient.DownloadString("http://releases.wildfiregames.com/$fileName.sha1sum").split(" ")[0]
+$checksumType = 'sha1'
 $validExitCodes = @(0)
 
 Install-ChocolateyPackage -PackageName "$packageName" `
