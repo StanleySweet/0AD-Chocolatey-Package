@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>0ad</id>
+    <version>0.0.23</version>
+    <title>0 A.D.</title>
+    <authors>Wildfire Games</authors>
+    <owners>dtgm</owners>
+    <licenseUrl>http://trac.wildfiregames.com/browser/ps/trunk/LICENSE.txt</licenseUrl>
+    <projectUrl>http://play0ad.com/</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/dtgm/chocolatey-packages/c5f2bd99b11d91687fee996fe614eb129933f4fd/icons/0ad.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Historically based war/economy game that allows players to relive or rewrite the history of Western civilizations, focusing on the years between 500 B.C.E. and 500 A.D.
+
+The project is highly ambitious, involving state-of-the-art 3D graphics, detailed artwork, sound, and a flexible and powerful custom-built game engine.
+
+#### Disk requirements
+Install file is about 570 MB and extracts to about 1.51 GB.</description>
+    <summary>Open-source, cross-platform, real-time strategy (RTS) game of ancient warfare</summary>
+    <releaseNotes>+#### Program
+* [Roadmap](http://trac.wildfiregames.com/roadmap)
+* [Changelog](http://trac.wildfiregames.com/log/ps)
+
++#### Package
+* Automatically built and uploaded by [dtgm](https://chocolatey.org/profiles/dtgm)</releaseNotes>
+    <copyright>© Wildfire Games</copyright>
+    <tags>rts historical game zero-ad admin</tags>
+    <projectSourceUrl>http://trac.wildfiregames.com/browser</projectSourceUrl>
+    <packageSourceUrl>https://github.com/dtgm/chocolatey-packages/tree/master/automatic/0ad/</packageSourceUrl>
+    <docsUrl>http://trac.wildfiregames.com/wiki</docsUrl>
+    <mailingListUrl>https://wildfiregames.com/forum/</mailingListUrl>
+    <bugTrackerUrl>http://trac.wildfiregames.com/report</bugTrackerUrl>
+  </metadata>
+</package>
