@@ -3,8 +3,7 @@ $installerType = 'exe'
 $silentArgs = '/S'
 $fileName = '0ad-0.0.23-alpha-win32.exe'
 $url = "http://releases.wildfiregames.com/$fileName"
-$webClient = New-Object Net.WebClient
-$checksum = $webClient.DownloadString("http://releases.wildfiregames.com/$fileName.sha1sum").split(" ")[0]
+$checksum = 'b6516aa7123b167291bcba5cce23ada800e22fc8'
 $checksumType = 'sha1'
 $validExitCodes = @(0)
 
