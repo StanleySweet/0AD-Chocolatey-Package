@@ -5,7 +5,7 @@
     <version>0.0.23</version>
     <title>0 A.D.</title>
     <authors>Wildfire Games</authors>
-    <owners>dtgm</owners>
+    <owners>StanleySweet</owners>
     <licenseUrl>http://trac.wildfiregames.com/browser/ps/trunk/LICENSE.txt</licenseUrl>
     <projectUrl>http://play0ad.com/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/dtgm/chocolatey-packages/c5f2bd99b11d91687fee996fe614eb129933f4fd/icons/0ad.png</iconUrl>
@@ -26,7 +26,7 @@ Install file is about 694 MB and extracts to about 2 GB.</description>
     <copyright>© Wildfire Games</copyright>
     <tags>rts historical game zero-ad admin</tags>
     <projectSourceUrl>http://trac.wildfiregames.com/browser</projectSourceUrl>
-    <packageSourceUrl>https://github.com/dtgm/chocolatey-packages/tree/master/automatic/0ad/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/StanleySweet/0AD-Chocolatey-Package</packageSourceUrl>
     <docsUrl>http://trac.wildfiregames.com/wiki</docsUrl>
     <mailingListUrl>https://wildfiregames.com/forum/</mailingListUrl>
     <bugTrackerUrl>http://trac.wildfiregames.com/report</bugTrackerUrl>
