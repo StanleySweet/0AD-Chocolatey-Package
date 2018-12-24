@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>0ad</id>
-    <version>0.0.23</version>
+    <version>0.0.23.1</version>
     <title>0 A.D.</title>
     <authors>Wildfire Games</authors>
     <owners>StanleySweet</owners>
@@ -20,9 +20,11 @@ Install file is about 694 MB and extracts to about 2 GB.</description>
     <releaseNotes>+#### Program
 * [Roadmap](http://trac.wildfiregames.com/roadmap)
 * [Changelog](http://trac.wildfiregames.com/log/ps)
+* [Detailed Changelog](https://trac.wildfiregames.com/wiki/Changelogs)
+* [Forums](https://wildfiregames.com/forum/)
 
 +#### Package
-* Automatically built and uploaded by [dtgm](https://chocolatey.org/profiles/dtgm)</releaseNotes>
+* Automatically built and uploaded by [StanleySweet](https://chocolatey.org/profiles/Stanleysweet)</releaseNotes>
     <copyright>© Wildfire Games</copyright>
     <tags>rts historical game zero-ad admin</tags>
     <projectSourceUrl>http://trac.wildfiregames.com/browser</projectSourceUrl>
