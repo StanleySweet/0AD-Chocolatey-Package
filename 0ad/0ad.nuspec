@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>0ad</id>
-    <version>0.0.25.0</version>
+    <version>0.0.25.1</version>
     <title>0 A.D.</title>
     <authors>Wildfire Games</authors>
     <owners>StanleySweet</owners>
     <licenseUrl>http://trac.wildfiregames.com/browser/ps/trunk/LICENSE.txt</licenseUrl>
     <projectUrl>http://play0ad.com/</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/dtgm/chocolatey-packages/c5f2bd99b11d91687fee996fe614eb129933f4fd/icons/0ad.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/0ad/0ad/6588265a2a4adefe855e7e36d7207bc6ba11deed/binaries/data/mods/public/art/icons/window.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Historically based war/economy game that allows players to relive or rewrite the history of Western civilizations, focusing on the years between 500 B.C.E. and 500 A.D.
 
