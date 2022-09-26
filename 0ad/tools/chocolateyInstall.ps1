@@ -1,9 +1,9 @@
 $packageName = '0ad'
 $installerType = 'exe'
 $silentArgs = '/S'
-$fileName = '0ad-0.0.25b-alpha-win32.exe'
+$fileName = '0ad-0.0.26-alpha-win32.exe'
 $url = "http://releases.wildfiregames.com/$fileName"
-$checksum = '48b0266f6047c06242822dccdd6d957db14983e1'
+$checksum = '7f036bb5afb84c5a2168d1689c7f8fdca960fb61'
 $checksumType = 'sha1'
 $validExitCodes = @(0)
 
