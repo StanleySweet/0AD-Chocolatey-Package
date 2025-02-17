@@ -2,11 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>0ad</id>
-    <version>0.0.26.0</version>
+    <version>0.27.0</version>
     <title>0 A.D.</title>
     <authors>Wildfire Games</authors>
     <owners>StanleySweet</owners>
-    <licenseUrl>https://trac.wildfiregames.com/browser/ps/trunk/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://gitea.wildfiregames.com/0ad/0ad/src/branch/main/LICENSE.md</licenseUrl>
     <projectUrl>https://play0ad.com/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/0ad/0ad/6588265a2a4adefe855e7e36d7207bc6ba11deed/binaries/data/mods/public/art/icons/window.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -18,19 +18,19 @@ The project is highly ambitious, involving state-of-the-art 3D graphics, detaile
 Install file is about 1357.50 MB and extracts to about 3.33 GB.</description>
     <summary>Open-source, cross-platform, real-time strategy (RTS) game of ancient warfare</summary>
     <releaseNotes>+#### Program
-* [Roadmap](https://trac.wildfiregames.com/roadmap)
-* [Changelog](https://trac.wildfiregames.com/log/ps)
-* [Detailed Changelog](https://trac.wildfiregames.com/wiki/Changelogs)
+* [Roadmap](https://gitea.wildfiregames.com/0ad/0ad/milestones)
+* [Changelog](https://gitea.wildfiregames.com/0ad/0ad/commits/branch/main)
+* [Detailed Changelog](https://gitea.wildfiregames.com/0ad/0ad/wiki/Changelogs)
 * [Forums](https://wildfiregames.com/forum/)
 
 +#### Package
 * Automatically built and uploaded by [StanleySweet](https://chocolatey.org/profiles/Stanleysweet)</releaseNotes>
     <copyright>© Wildfire Games</copyright>
     <tags>rts historical game zero-ad admin</tags>
-    <projectSourceUrl>https://trac.wildfiregames.com/browser</projectSourceUrl>
+    <projectSourceUrl>https://gitea.wildfiregames.com/0ad/0ad</projectSourceUrl>
     <packageSourceUrl>https://github.com/StanleySweet/0AD-Chocolatey-Package</packageSourceUrl>
-    <docsUrl>https://trac.wildfiregames.com/wiki</docsUrl>
+    <docsUrl>https://gitea.wildfiregames.com/0ad/0ad/wiki</docsUrl>
     <mailingListUrl>https://wildfiregames.com/forum/</mailingListUrl>
-    <bugTrackerUrl>https://trac.wildfiregames.com/report</bugTrackerUrl>
+    <bugTrackerUrl>https://gitea.wildfiregames.com/0ad/0ad/issues/new/choose</bugTrackerUrl>
   </metadata>
 </package>
